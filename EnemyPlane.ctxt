@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EnemyPlane
+comment0.text=\ This\ class\ create\ the\ enemyPlane\ object\ in\ SamplePanel\r\n
+comment1.params=
+comment1.target=EnemyPlane()
+comment2.params=y
+comment2.target=void\ setLocation(int)
+comment3.params=
+comment3.target=void\ resetLocation()
+comment4.params=
+comment4.target=int\ getLocation()
+numComments=5

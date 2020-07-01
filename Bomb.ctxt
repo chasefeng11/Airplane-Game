@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Bomb
+comment1.params=x\ y
+comment1.target=Bomb(int,\ int)
+comment10.params=s
+comment10.target=boolean\ hitTarget(Structures)
+comment2.params=
+comment2.target=boolean\ hasHitGround()
+comment3.params=
+comment3.target=boolean\ hasHitSomething()
+comment4.params=
+comment4.target=boolean\ hasExploded()
+comment5.params=
+comment5.target=int\ getX()
+comment6.params=
+comment6.target=int\ getY()
+comment7.params=x
+comment7.target=void\ setX(int)
+comment8.params=y
+comment8.target=void\ setY(int)
+comment9.params=
+comment9.target=void\ update()
+numComments=11

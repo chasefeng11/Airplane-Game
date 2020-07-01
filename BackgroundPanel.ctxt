@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BackgroundPanel
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=
+comment2.target=java.awt.Dimension\ getPreferredSize()
+numComments=3

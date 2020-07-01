@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Plane
+comment0.text=\ This\ class\ will\ create\ the\ user's\ plane\ object\r\n\ Note\ that\ this\ class\ is\ completely\ unrelated\ to\ enemyPlane.java\ \r\n
+comment1.params=
+comment1.target=Plane()
+comment10.params=
+comment10.target=boolean\ alive()
+comment2.params=
+comment2.target=int\ getScore()
+comment3.params=
+comment3.target=int\ getSurvival()
+comment4.params=
+comment4.target=boolean\ hitByBullet()
+comment5.params=
+comment5.target=boolean\ hitByMissile()
+comment6.params=
+comment6.target=void\ bombedBase()
+comment7.params=
+comment7.target=void\ bombedFactory()
+comment8.params=
+comment8.target=void\ bombedCivilian()
+comment9.params=
+comment9.target=void\ addScore()
+numComments=11

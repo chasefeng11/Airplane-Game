@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=EnemyBullet
+comment0.text=\ Creates\ bullet\ objects\ that\ fly\ right\ and\ can\ hit\ the\ users\ plane\r\n
+comment1.params=x\ y
+comment1.target=EnemyBullet(int,\ int)
+comment2.params=
+comment2.target=boolean\ shouldBeVisible()
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=
+comment4.target=int\ getY()
+comment5.params=x\ y
+comment5.target=boolean\ hitPlane(int,\ int)
+comment6.params=n
+comment6.target=void\ addX(int)
+numComments=7
