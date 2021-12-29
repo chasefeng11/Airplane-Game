@@ -2,7 +2,21 @@ PROJECT TITLE: An Airplane Flying Game in Java
 AUTHORS: Chase Feng, Matt Sadowski, Dillon Bardhi
 DATE: June 2020
 
-DESCRIPTION: A desktop Super-Mario like computer-game in pure Java, using AWT and Swing.
+DESCRIPTION:
+A desktop Super-Mario like computer-game in pure Java, using AWT and Swing. The program uses various container classes to
+simulate (possibly moving) physical objects, and a 2D coordinate system to detect/implement collisions. High scores are
+tracked by reading/writing to scores.txt.
+To execute the program, users should compile and run the Menu.java program.
+
+GAMEPLAY INSTRUCTIONS:
+Users can play by compiling and running Menu.java. 
+Use up and down arrows to go up and down
+Hit the spacebar to drop bombs on enemy bases and factories
+Dodge enemy bullets and destroy their bases!
+Your success as a bomber will be measured by your score.
+Hitting enemy bases and factories will increase your score,
+and staying alive for longer will also increase your score
+and hitting civilian homes will decrease your score.
 
 
   
